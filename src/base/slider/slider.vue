@@ -104,6 +104,7 @@ export default {
           threshold: 0.3,
           speed: 400
         },
+        // click: true
       })
 
       this.slider.on('scrollEnd', () => {
