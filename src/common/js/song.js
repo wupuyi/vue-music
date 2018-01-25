@@ -3,6 +3,7 @@ export default class Song {
     this.id = id
     this.mid = mid
     this.singer = singer
+    this.name = name
     this.album = album
     this.duration = duration
     this.image = image
